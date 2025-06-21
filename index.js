@@ -10,5 +10,5 @@ const x = {
         return "Hello";
     }
 }
-out("ahoj");
-//strOut(x);
+
+strOut(x);
